@@ -1,3 +1,4 @@
 # Capture-The-Flag
 
-https://futureboy.us/stegano
+A simple 5 step Cicada 3301 inspired capture the flag.
+The flag is "SEVENTEEN YEARS UNDERGROUND"
